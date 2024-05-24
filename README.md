@@ -24,7 +24,7 @@ This is a simple Pokémon battle game built using HTML, CSS, and JavaScript. It 
 
 - HTML
 - CSS
-- JavaScript
+- Javascript
 
 ## Credits
 
